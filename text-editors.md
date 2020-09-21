@@ -19,4 +19,20 @@ editors that have features that you may be interested in,for example; you can us
 there are other text editors available that might help you code more
 efficiently
 ## examples of text editors 
-1. 
+1. NotePad++
+2. TextWrangler/BB Edit
+3. Visual Studio Code
+4. Atom
+
+# Command lines 
+**what are they?**
+
+A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+
+command | response
+---------|---------
+pwd | print working directory
+ls | It listed the contents of our current directory
+ls -l | long listing with many informations
+cd | change directory
+ls -a | list hidden files in addition to other files
