@@ -7,6 +7,8 @@
 
 **growth mindset** 
 
+[dictionary](https://aishahsatouf.github.io/Reading-notes/Notes%20entry%20idea)
+
 *its a combination of thoughts and bleives that cored as an answer to the question"what do you think about your self"*
 
 ## keping your self with growth mindset
