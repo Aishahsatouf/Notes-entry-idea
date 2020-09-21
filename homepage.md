@@ -5,4 +5,6 @@ My name is Aisha and I'm programming learner
 
  ## my content 
  
- *[Growth mindset]
+ *[Growth mindset](https://aishahsatouf.github.io/Reading-notes/growthmindset)
+
+ *[]
