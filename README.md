@@ -10,3 +10,7 @@
 
 *[text-editors](https://aishahsatouf.github.io/Reading-notes/text-editors)
 
+*[Read04](https://aishahsatouf.github.io/Reading-notes/Read04)
+
+*[Read 05](https://aishahsatouf.github.io/Reading-notes/read05)
+
