@@ -14,6 +14,8 @@ allows you to compare the results of two or more values from logical operators a
   loops check the results of a condition if it retairned true the code block will be run , then result will be checked again if it returns true the block will be runed and results will be rechecked until the result from the ceck is false itexcits the loop and run the followed codes after the loop.
 
   **For loop** | **while loop**
+  -------------|-----------------------------------------------------------------------------------
   for (i = O; i < arraylength; i++) | while (i < 10) {msg += i + ' x 5 = ' + (i * 5) + '<brI>';i} 
-for(assign;condition;update) | while (test expression)
+   --------------------------------|---------------------------------
+  for(assign;condition;update) | while (test expression)
 
