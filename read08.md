@@ -16,6 +16,5 @@ allows you to compare the results of two or more values from logical operators a
   **For loop** | **while loop**
   -------------|-----------------------------------------------------------------------------------
   for (i = O; i < arraylength; i++) | while (i < 10) {msg += i + ' x 5 = ' + (i * 5) + '<brI>';i} 
-   --------------------------------|---------------------------------
   for(assign;condition;update) | while (test expression)
 
